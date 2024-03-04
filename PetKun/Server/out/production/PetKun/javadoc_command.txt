@@ -1,0 +1,1 @@
+javadoc -locale zh_CN -protected -author -splitindex -encoding UTF-8 -charset UTF-8 -windowtitle PetKunAPI -d ./PetKun_JAVADOC calendar tomato SquareNum.java TomatoClock.java Main.java PetKunCalendar.java

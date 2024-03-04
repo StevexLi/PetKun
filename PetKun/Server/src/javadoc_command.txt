@@ -1,0 +1,1 @@
+javadoc -locale zh_CN -protected -author -splitindex -encoding UTF-8 -charset UTF-8 -windowtitle ServerAPI -d ./Server_JAVADOC server server.model.service server.controller common common.util common.model.entity 

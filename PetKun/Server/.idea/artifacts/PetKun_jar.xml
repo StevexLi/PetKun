@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PetKun:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PetKun_jar</output-path>
+    <root id="archive" name="PetKun.jar">
+      <element id="module-output" name="Server_Online" />
+    </root>
+  </artifact>
+</component>
